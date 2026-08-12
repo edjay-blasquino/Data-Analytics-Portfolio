@@ -12,6 +12,22 @@ The workbook analyzes **300 sales transactions** covering **January 2025 to Marc
 
 ---
 
+## 🎯 Project Objective
+
+The primary objective of this project was to demonstrate how raw sales transaction data can be transformed into an **interactive and management-friendly reporting dashboard** using Microsoft Excel.
+
+The dashboard enables users to:
+
+- Monitor overall sales performance
+- Identify sales trends over time
+- Compare regional performance
+- Analyze product performance
+- Evaluate customer segments
+- Compare salesperson performance
+- Dynamically filter and explore sales data
+
+---
+
 ## 📁 Dataset
 
 | Item | Description |
@@ -96,21 +112,24 @@ The **KPI cards and charts respond dynamically** to the selected filters, allowi
 - Slicers
 - Timeline
 - KPI Cards
+- Statistics
 - Data Analysis
 - Interactive Dashboard Design
+- Business Insights
+- Report Writing
 
 ---
 
-## 🎯 Project Objective
+## 📈 Key Insights
 
-The primary objective of this project was to demonstrate how raw sales transaction data can be transformed into an **interactive and management-friendly reporting dashboard** using Microsoft Excel.
+-  Sales are heavily concentrated in Electronics and Furniture, which together account for approximately 93% of total sales.
+-  Sales are highly concentrated among a small group of products, with Laptop sales particularly dominant.
+-  Retail is the company's dominant customer segment, suggesting that changes in retail demand could have a significant effect on overall revenue.
+-  The South region generated substantially more sales than the other regions, while East represents an opportunity for further investigation and improvement.
+-  Grace leads in overall sales volume, while Kevin generates significantly higher value per order.
 
-The dashboard enables users to:
+---
 
-- Monitor overall sales performance
-- Identify sales trends over time
-- Compare regional performance
-- Analyze product performance
-- Evaluate customer segments
-- Compare salesperson performance
-- Dynamically filter and explore sales data
+## 📥 Download the Excel Workbook
+
+[Download Sales Performance Dashboard 2026.xlsx](./Sales%20Performance%20Dashboard%202026.xlsx)
