@@ -1,5 +1,7 @@
 # 📊 Sales Performance Dashboard
 
+![Dashboard Preview](Dashboard%20Preview.png)
+
 ## Project Overview
 
 I developed an interactive **Sales Performance Dashboard using Microsoft Excel** to transform raw sales transaction data into an interactive reporting and analysis tool.
